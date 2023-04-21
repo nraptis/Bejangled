@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "effect_tile_highlight_01.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

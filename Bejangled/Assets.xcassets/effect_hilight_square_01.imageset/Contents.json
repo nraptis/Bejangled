@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "effect_hilight_square_01.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
